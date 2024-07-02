@@ -5,4 +5,4 @@ role: honours
 group: current
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Currently completing my Honour's thesis on Long Read Sequencing of HLA in Papuan Individuals. Unofficial lab group mascot
